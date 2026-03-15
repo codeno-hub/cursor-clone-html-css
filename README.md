@@ -71,28 +71,3 @@ cursor-clone/
 ├── index.html    — all 11 sections
 ├── style.css     — all styles (~650 lines)
 └── README.md     — this file
-```
-
----
-
-## How to Run
-
-Simply open `index.html` in any modern browser. No build step required.
-
-```bash
-open index.html
-# or
-python3 -m http.server 8000
-```
-
----
-
-## Constraints Followed
-
-- ✅ HTML + CSS only
-- ✅ No JavaScript
-- ✅ No Tailwind CSS
-- ✅ No animations
-- ✅ No responsiveness (desktop-only)
-- ✅ Fonts and colors matched to original
-- ✅ Semantic HTML structure
